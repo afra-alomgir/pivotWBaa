@@ -1,0 +1,20 @@
+Package: pivotWBaa
+Title: Pivots World Bank Data To Long Format
+Version: 0.0.0.9000
+Authors@R: 
+    person("Afra", "Alomgir", , "a.alomgir@mail.utoronto.ca", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: 
+    dplyr,
+    magrittr,
+    tidyr
+Suggests: 
+    testthat (>= 3.0.0)
+Depends: 
+    R (>= 3.5)
+LazyData: true
+Config/testthat/edition: 3
