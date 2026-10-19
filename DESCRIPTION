@@ -18,3 +18,5 @@ Depends:
     R (>= 3.5)
 LazyData: true
 Config/testthat/edition: 3
+URL: https://github.com/afra-alomgir/pivotWBaa
+BugReports: https://github.com/afra-alomgir/pivotWBaa/issues
